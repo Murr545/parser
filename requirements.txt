@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+sqlalchemy
+aiogram>=3.4
+python-dotenv
+pydantic-settings>=2.0
+pydantic>=2.11.10
